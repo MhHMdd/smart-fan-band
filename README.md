@@ -78,6 +78,9 @@ mcp = MCP3008(spi, CS_PIN)
 # Heartbeat sensor pin (using MCP3008 channels 0)
 HEARTBEAT_CHANNEL = 0
 
+# html
+https://drive.google.com/drive/folders/1E8v-q9kSTDfJUGemR8aQyqFoiMqiD07B?usp=sharing
+
 # Flask app
 app = Flask(__name__)
 
